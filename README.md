@@ -11,6 +11,8 @@ Windows is not directly supported at this time. The [Ubuntu subsystem](https://h
 
 ### AWS Setup
 
+### TODO: What is the instruction for fellows getting their security credentials? Which step do they enter here?
+
 1. Create a [AWS account](https://aws.amazon.com/) (or use an existing one).
 2. Create an [IAM admin user and group](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html). AWS credentialling is confusing. This instruction creates a new sub-user that will be safer to use than the root account you just created in step 1.
 3. Get the access key and secret access key from the IAM administrator user you just created. 
